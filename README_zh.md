@@ -104,7 +104,7 @@ pip install -r requirements.txt
 
 我们提供了 HY-World 1.5 模型的演示供快速开始。
 
-https://github.com/user-attachments/assets/3a3ab5fd-409a-4fa8-a39a-4aa1a09691e2
+https://github.com/user-attachments/assets/643a33a4-b677-4eff-ad1d-32205c594274
 
 
 免安装试用我们的**在线服务**: https://3d.hunyuan.tencent.com/sceneTo3D
