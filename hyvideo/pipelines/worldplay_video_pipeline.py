@@ -73,7 +73,7 @@ from hyvideo.utils.multitask_utils import (
 )
 from hyvideo.utils.retrieval_context import (
     generate_points_in_sphere, 
-    select_aligned_memory_frames_context_per_chunk_w_latent_sink_fov_refine
+    select_aligned_memory_frames
 )
 
 
@@ -984,7 +984,7 @@ class HunyuanVideo_1_5_Pipeline(DiffusionPipeline):
 
                 selected_frame_indices = []
                 for chunk_start_idx in range(current_frame_idx, current_frame_idx + self.chunk_latent_frames, 4):
-                    selected_history_frame_id = select_aligned_memory_frames_context_per_chunk_w_latent_sink_fov_refine(
+                    selected_history_frame_id = select_aligned_memory_frames(
                         viewmats[0].cpu().detach().numpy(),
                         chunk_start_idx,
                         memory_frames=20,
@@ -1124,7 +1124,7 @@ class HunyuanVideo_1_5_Pipeline(DiffusionPipeline):
 
                 selected_frame_indices = []
                 for chunk_start_idx in range(current_frame_idx, current_frame_idx + self.chunk_latent_frames, 4):
-                    selected_history_frame_id = select_aligned_memory_frames_context_per_chunk_w_latent_sink_fov_refine(
+                    selected_history_frame_id = select_aligned_memory_frames(
                         viewmats[0].cpu().detach().numpy(),
                         chunk_start_idx,
                         memory_frames=20,
