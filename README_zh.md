@@ -29,9 +29,7 @@
 
 ## 🎥 宣传视频
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/19a8ef47-3d1a-4c29-a80f-500b342bfc80" controls width="100%"></video>
-</p>
+https://github.com/user-attachments/assets/19a8ef47-3d1a-4c29-a80f-500b342bfc80
 
 ## 🔥 新闻
 - 2025年12月17日: 👋 我们发布了 HY-World 1.5 (WorldPlay) 的[技术报告](https://3d-models.hunyuan.tencent.com/world/world1_5/HYWorld_1.5_Tech_Report.pdf)和[研究论文](https://arxiv.org/abs/2512.14614)，欢迎查看详情并展开讨论！
@@ -253,7 +251,7 @@ https://github.com/user-attachments/assets/f165f409-5a74-4e19-a32c-fc98d92259e1
   title={WorldCompass: Reinforcement Learning for Long-Horizon World Models},
   author={Zehan Wang and Tengfei Wang and Haiyu Zhang and Wenqiang Sun and Junta Wu and Haoyuan Wang and Zhenwei Wang and Hengshuang Zhao and Chunchao Guo and Zhou Zhao},
   journal = {arXiv preprint},
-  year = 2025
+  year = {2025}
 }
 ```
 
