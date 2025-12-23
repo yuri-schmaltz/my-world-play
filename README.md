@@ -33,9 +33,7 @@
 
 ## 🎥 Video
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/9fd12b40-41ab-4201-8667-8b333db1123d" controls width="100%"></video>
-</p>
+https://github.com/user-attachments/assets/9fd12b40-41ab-4201-8667-8b333db1123d
 
 ## 🔥 News
 - December 17, 2025: 👋 We present the [technical report](https://3d-models.hunyuan.tencent.com/world/world1_5/HYWorld_1.5_Tech_Report.pdf) and [research paper](https://arxiv.org/abs/2512.14614) of HY-World 1.5 (WorldPlay), please check out the details and spark some discussion!
