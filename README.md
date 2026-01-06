@@ -362,7 +362,9 @@ https://github.com/user-attachments/assets/531bf0ad-1fca-4d76-bb65-84701368926d
 https://github.com/user-attachments/assets/f165f409-5a74-4e19-a32c-fc98d92259e1
 
 ## 📝 TODO
-- [ ] Open-source training code
+- [x] Open-source training code
+- [x] Open-source quantized & accelerated inference
+- [x] Open-source Lite model
 
 ## 📚 Citation
 
